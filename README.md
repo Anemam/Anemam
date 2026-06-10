@@ -1,7 +1,8 @@
-- 👋 E ai, Me chamo @Anemam
-- 👀 Me interesso por programação em geral, sem distinção de tecnologia.
-- 🌱 Atualmente estou estudando sobre fundamentos do Java e tenho conhecimento em .NET / JavaScript / TypeScript / ASP.NET core
-- 💞️ Quero criar um mundo de desevolvimento mais facil e acessivel.
+- 👋 E aí, me chamo @Anemam
+- 👀 Me interesso por programação em geral, com um forte foco em DevSecOps e Segurança de Aplicações (AppSec).
+- 🛡️ Busco sempre integrar práticas de segurança ao longo de todo o ciclo de vida do desenvolvimento.
+- 🌱 Sempre estudando sobre segurança.
+- 💞️ Quero criar um mundo de desenvolvimento mais fácil, acessível e, acima de tudo, seguro.
 - 📫 Meu e-mail >> vinicius.anemam@gmail.com
 
 <!---
